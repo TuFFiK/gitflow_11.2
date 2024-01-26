@@ -3,7 +3,7 @@ def capitalize_words(sentence):
     Capitalize the first letter of each word in a sentence.
 
     Parameters:
-    - sentence (str): The input sentence.
+    - sentence (str)
 
     Returns:
     - str: The sentence with the first letter of each word capitalized.
